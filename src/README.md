@@ -1,4 +1,4 @@
-## Запуску проекта Maven с помощью Apache Tomcat в IntelliJ IDEA, отображающего статическую страницу index.html
+## Запуск проекта Maven с помощью Apache Tomcat в IntelliJ IDEA, отображающего статическую страницу index.html
 
 1. Установить Apache Tomcat:
 
